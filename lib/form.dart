@@ -34,7 +34,7 @@ class _MyFormState extends State<MyForm> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.blue,
-        title: const Text("Formulario"),
+        title: const Text("Formulario de Empleados"),
         centerTitle: true,
       ),
       body: Container(
